@@ -1,0 +1,5 @@
+﻿  UnitTest1.cpp
+C:\Student\ Tkachenko.Marharyta.IK11\Lab3.3.A\Lab3.3.A\Complex_Public.h(2,1): warning C4103: alignment changed after including header, may be due to missing #pragma pack(pop)
+C:\Student\ Tkachenko.Marharyta.IK11\Lab3.3.A\Lab3.3.A\Complex_Public.cpp(1,1): warning C4103: alignment changed after including header, may be due to missing #pragma pack(pop)
+C:\Student\ Tkachenko.Marharyta.IK11\Lab3.3.A\UnitTest1\UnitTest1.cpp(3,1): warning C4103: alignment changed after including header, may be due to missing #pragma pack(pop)
+  UnitTest1.vcxproj -> C:\Student\ Tkachenko.Marharyta.IK11\Lab3.3.A\Debug\UnitTest1.dll
